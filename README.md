@@ -1,8 +1,8 @@
-# Vultriage Landing Page
-
+# Vultriage Landing Page 
 This repository contains the **coming soon** landing page for [Vultriage](https://vultriage.com), an AI-driven B2C Cybersecurity SaaS.
 
 ---
+
 
 ## Features
 
